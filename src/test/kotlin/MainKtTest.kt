@@ -12,7 +12,7 @@ class MainKtTest {
 
         val result = commissionCalculator(type, previous, amount)
 
-        assertEquals(0, result)
+        assertEquals(10, result)
     }
 
     @Test
