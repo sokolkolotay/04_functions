@@ -102,5 +102,4 @@ class MainKtTest {
 
         assertEquals(ERROR_LIMIT, result)
     }
-
 }
