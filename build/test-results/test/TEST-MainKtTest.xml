@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-03-01T18:03:34" hostname="Noutbuk-Ila.local" time="0.002">
+  <properties/>
+  <testcase name="calculatorCommissionForMastercardWithSmallTransaction" classname="MainKtTest" time="0.001"/>
+  <testcase name="calculatorCommissionForMastercardLimitHasNotBeenExceeded" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatorMinCommissionForVisa" classname="MainKtTest" time="0.001"/>
+  <testcase name="checkWrongDailyLimit" classname="MainKtTest" time="0.0"/>
+  <testcase name="commissionCalculatorForMir" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatorCommissionForVisa" classname="MainKtTest" time="0.0"/>
+  <testcase name="checkWrongType" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatorCommissionForMastercardLimitHasBeenExceeded" classname="MainKtTest" time="0.0"/>
+  <testcase name="checkWrongMonthlyLimit" classname="MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
